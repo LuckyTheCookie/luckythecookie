@@ -2,7 +2,7 @@
 🔭 I’m currently working on new projects<br>🌱 I’m currently learning HTML, CSS and Javascript<br>😂 I’m looking for help with everything (I love your advice)<br>⚡ Fun fact : I Love Cookies :)<br>📫 You can reach me on discord : lucky_kika
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luckythecookie&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=luckythecookie&icon=8&color=0)]()
 
 ---
 
