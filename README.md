@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋</h1>
 
 <p align="left">
-I'm <b>Lucas Thiebaut</b>, a <b>Web & Mobile Developer</b> based in <b>Belfort, France 🇫🇷</b>.
+I'm <b>Lucas</b>, a <b>Web & Mobile Developer</b> based in <b>Belfort, France 🇫🇷</b>.
 </p>
 
 ---
