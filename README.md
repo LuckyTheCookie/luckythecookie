@@ -4,58 +4,25 @@
 I'm <b>Lucas</b>, a <b>Web & Mobile Developer</b> based in <b>Belfort, France 🇫🇷</b>.
 </p>
 
----
+
 
 ## ✨ About me
 
-- 🚀 Passionate about building **useful, clean and well-designed apps**
-- 📱 Focused on **Web & Mobile development**
-- 🧠 I love learning new technologies and experimenting with UI/UX
-- 🏋️ Currently working hard on **FitTrack**, a privacy-first fitness app
-- 🎮 Started coding with game dev (Unity) before moving to web & mobile
-- 📫 Reach me on my website : <a href="https://lthb.fr" target="_blank">lthb.fr</a>
+I'm a self-taught developer from Belfort, France, currently in high school and building real-world projects on the side. I started with game dev (Unity, Scratch) and gradually moved toward web and mobile development.
+Some of my projects are open-source and available here. Others are private or showcased on my portfolio at [lthb.fr](https://lthb.fr)
 
+## 🎓 Background
 
----
+I got into coding through Unity and Scratch, just messing around and building small games. Since then it kind of never stopped. I'm currently finishing high school at Lycée Raoul Follereau in Belfort, and I've had the chance to do internships in robotics and industrial supervision along the way. Next step: a proper degree in computer science.
+
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend & Mobile
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,astro,git,github,figma,nodejs,supabase" />
+  </a>
 </p>
-
-### 📦 Tools & Ecosystem
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40"/>
-  <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40"/>
-  <img width="12"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</p>
-
-### 🧠 Backend / Data
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40"/>
-</p>
-
----
 
 ## 🔥 Current Project
 
@@ -66,21 +33,11 @@ I'm <b>Lucas</b>, a <b>Web & Mobile Developer</b> based in <b>Belfort, France �
 - 📱 Built with **React Native, Expo & TypeScript**
 - 🔒 **100% privacy-first** philosophy
 - 📴 Works **offline**
-- 🎮 Gamification & clean dark Glassmorphism UI
-- 🤖 Advanced features (Health Connect, AI Rep Counter)
+- 🤖 Advanced features (Health Connect, Local AI Rep Counter,...)
 
-➡️ [*More coming soon…*](https://github.com/LuckyTheCookie/FitTrack/)
+➡️ [Github](https://github.com/LuckyTheCookie/FitTrack/)
 
----
 
-## 🎓 Background
-
-- 🎒 Discovered programming with **Unity & Scratch**
-- 🏫 Currently in high school (*Lycée Raoul Follereau – Belfort*)
-- 🧪 Internships in **robotics & industrial supervision**
-- 🎯 Planning to pursue studies in **computer science & development**
-
----
 
 ## 🤝 Let's connect
 
